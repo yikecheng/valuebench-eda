@@ -1,0 +1,22 @@
+{
+  "analysis_date": "2026-10-05",
+  "source_url": "https://docs.google.com/spreadsheets/d/1-Zhf4Nr59UqoeJLqhFwLoGDRH8uAuMGKdNqnigVO01Y/edit?gid=220762358",
+  "total_cases": 286,
+  "approved_cases": 51,
+  "needs_review_cases": 116,
+  "deprecated_cases": 119,
+  "validation_valid": 275,
+  "validation_errors": 11,
+  "r1_decisions": 202,
+  "r2_decisions": 61,
+  "r3_decisions": 0,
+  "commented_cases": 79,
+  "cases_changed_from_original": 53,
+  "vignettes_changed_from_original": 26,
+  "unique_mech_cases": 10,
+  "mech_rows_after_header_removal": 20,
+  "exact_duplicate_pairs": 1,
+  "similarity_cluster_threshold": 0.75,
+  "similarity_clusters": 1,
+  "warnings": []
+}
