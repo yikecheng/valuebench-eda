@@ -1,0 +1,10 @@
+Metric,Vignette words count,Vignette words min,Vignette words median,Vignette words max,Choice 1 words count,Choice 1 words min,Choice 1 words median,Choice 1 words max,Choice 2 words count,Choice 2 words min,Choice 2 words median,Choice 2 words max,Section,Value
+Approved,51.0,89.0,179.0,247.0,51.0,5.0,10.0,13.0,51.0,3.0,11.0,14.0,Text length by status,
+Deprecated,119.0,143.0,188.0,246.0,119.0,4.0,11.0,14.0,119.0,7.0,11.0,15.0,Text length by status,
+Needs review,116.0,151.0,190.0,243.0,116.0,6.0,11.0,17.0,116.0,6.0,12.0,19.0,Text length by status,
+Unique Case IDs,,,,,,,,,,,,,Duplication and similarity,286.0
+Unique normalized vignettes,,,,,,,,,,,,,Duplication and similarity,285.0
+Exact duplicate pairs,,,,,,,,,,,,,Duplication and similarity,1.0
+Cases in TF-IDF similarity clusters,,,,,,,,,,,,,Duplication and similarity,2.0
+Median maximum similarity,,,,,,,,,,,,,Duplication and similarity,0.07520358515813022
+Maximum non-self similarity,,,,,,,,,,,,,Duplication and similarity,0.9999999999999982

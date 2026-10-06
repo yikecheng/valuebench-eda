@@ -1,0 +1,11 @@
+Field or stage,Complete n,Total cases,Percent of cases
+Case content present,286,286,100.0
+R1 assigned,216,286,75.52447552447552
+R1 decision,202,286,70.62937062937063
+R2 assigned,81,286,28.321678321678323
+R2 decision,61,286,21.32867132867133
+R3 assigned,0,286,0.0
+R3 decision,0,286,0.0
+Reviewer comment present,79,286,27.622377622377623
+Automated validation valid,275,286,96.15384615384616
+Automated validation error,11,286,3.8461538461538463

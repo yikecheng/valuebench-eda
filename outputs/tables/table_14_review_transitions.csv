@@ -1,0 +1,12 @@
+R1 decision,R2 decision,Final status,Cases
+Reject,nan,Deprecated,112
+nan,nan,Needs review,84
+Approve,Approve,Approved,31
+Revise,Approve,Approved,20
+Approve,nan,Needs review,16
+Revise,nan,Needs review,12
+Approve,Reject,Deprecated,5
+Approve,Revise,Needs review,2
+Revise,Reject,Deprecated,2
+Reject,Reject,Needs review,1
+Reject,nan,Needs review,1

@@ -1,0 +1,25 @@
+Cohort,Principle,Direction,Cases,Cohort n,Percent
+All cases,Autonomy,Choice 1,146,286,51.04895104895105
+All cases,Autonomy,Tie,18,286,6.293706293706293
+All cases,Autonomy,Choice 2,122,286,42.65734265734266
+All cases,Beneficence,Choice 1,180,286,62.93706293706294
+All cases,Beneficence,Tie,23,286,8.041958041958042
+All cases,Beneficence,Choice 2,83,286,29.02097902097902
+All cases,Nonmaleficence,Choice 1,69,286,24.125874125874127
+All cases,Nonmaleficence,Tie,32,286,11.188811188811188
+All cases,Nonmaleficence,Choice 2,185,286,64.68531468531468
+All cases,Justice,Choice 1,69,286,24.125874125874127
+All cases,Justice,Tie,129,286,45.10489510489511
+All cases,Justice,Choice 2,88,286,30.76923076923077
+Approved,Autonomy,Choice 1,30,51,58.8235294117647
+Approved,Autonomy,Tie,4,51,7.8431372549019605
+Approved,Autonomy,Choice 2,17,51,33.333333333333336
+Approved,Beneficence,Choice 1,28,51,54.90196078431372
+Approved,Beneficence,Tie,11,51,21.568627450980394
+Approved,Beneficence,Choice 2,12,51,23.529411764705884
+Approved,Nonmaleficence,Choice 1,10,51,19.607843137254903
+Approved,Nonmaleficence,Tie,6,51,11.764705882352942
+Approved,Nonmaleficence,Choice 2,35,51,68.62745098039215
+Approved,Justice,Choice 1,10,51,19.607843137254903
+Approved,Justice,Tie,23,51,45.09803921568628
+Approved,Justice,Choice 2,18,51,35.294117647058826

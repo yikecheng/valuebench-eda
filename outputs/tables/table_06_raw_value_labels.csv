@@ -1,0 +1,49 @@
+Cohort,Principle,Choice,Label,Cases,Cohort n,Percent
+All cases,Autonomy,Choice 1,violates,113,286,39.51048951048951
+All cases,Autonomy,Choice 1,neutral,28,286,9.79020979020979
+All cases,Autonomy,Choice 1,promotes,145,286,50.6993006993007
+All cases,Autonomy,Choice 2,violates,141,286,49.3006993006993
+All cases,Autonomy,Choice 2,neutral,24,286,8.391608391608392
+All cases,Autonomy,Choice 2,promotes,121,286,42.30769230769231
+All cases,Beneficence,Choice 1,violates,37,286,12.937062937062937
+All cases,Beneficence,Choice 1,neutral,66,286,23.076923076923077
+All cases,Beneficence,Choice 1,promotes,183,286,63.98601398601399
+All cases,Beneficence,Choice 2,violates,117,286,40.90909090909091
+All cases,Beneficence,Choice 2,neutral,83,286,29.02097902097902
+All cases,Beneficence,Choice 2,promotes,86,286,30.06993006993007
+All cases,Nonmaleficence,Choice 1,violates,171,286,59.79020979020979
+All cases,Nonmaleficence,Choice 1,neutral,58,286,20.27972027972028
+All cases,Nonmaleficence,Choice 1,promotes,57,286,19.93006993006993
+All cases,Nonmaleficence,Choice 2,violates,61,286,21.32867132867133
+All cases,Nonmaleficence,Choice 2,neutral,59,286,20.62937062937063
+All cases,Nonmaleficence,Choice 2,promotes,166,286,58.04195804195804
+All cases,Justice,Choice 1,violates,76,286,26.573426573426573
+All cases,Justice,Choice 1,neutral,144,286,50.34965034965035
+All cases,Justice,Choice 1,promotes,66,286,23.076923076923077
+All cases,Justice,Choice 2,violates,64,286,22.377622377622377
+All cases,Justice,Choice 2,neutral,136,286,47.55244755244755
+All cases,Justice,Choice 2,promotes,86,286,30.06993006993007
+Approved,Autonomy,Choice 1,violates,14,51,27.45098039215686
+Approved,Autonomy,Choice 1,neutral,7,51,13.72549019607843
+Approved,Autonomy,Choice 1,promotes,30,51,58.8235294117647
+Approved,Autonomy,Choice 2,violates,29,51,56.86274509803921
+Approved,Autonomy,Choice 2,neutral,5,51,9.803921568627452
+Approved,Autonomy,Choice 2,promotes,17,51,33.333333333333336
+Approved,Beneficence,Choice 1,violates,6,51,11.764705882352942
+Approved,Beneficence,Choice 1,neutral,17,51,33.333333333333336
+Approved,Beneficence,Choice 1,promotes,28,51,54.90196078431372
+Approved,Beneficence,Choice 2,violates,20,51,39.21568627450981
+Approved,Beneficence,Choice 2,neutral,19,51,37.254901960784316
+Approved,Beneficence,Choice 2,promotes,12,51,23.529411764705884
+Approved,Nonmaleficence,Choice 1,violates,33,51,64.70588235294117
+Approved,Nonmaleficence,Choice 1,neutral,10,51,19.607843137254903
+Approved,Nonmaleficence,Choice 1,promotes,8,51,15.686274509803921
+Approved,Nonmaleficence,Choice 2,violates,7,51,13.72549019607843
+Approved,Nonmaleficence,Choice 2,neutral,10,51,19.607843137254903
+Approved,Nonmaleficence,Choice 2,promotes,34,51,66.66666666666667
+Approved,Justice,Choice 1,violates,16,51,31.372549019607842
+Approved,Justice,Choice 1,neutral,26,51,50.98039215686274
+Approved,Justice,Choice 1,promotes,9,51,17.647058823529413
+Approved,Justice,Choice 2,violates,10,51,19.607843137254903
+Approved,Justice,Choice 2,neutral,23,51,45.09803921568628
+Approved,Justice,Choice 2,promotes,18,51,35.294117647058826

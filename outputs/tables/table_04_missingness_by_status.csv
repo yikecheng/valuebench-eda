@@ -1,0 +1,37 @@
+Cohort,Variable,Missing n,Cohort n,Missing percent
+All cases,Core content and value labels,0,286,0.0
+All cases,R1,70,286,24.475524475524477
+All cases,R1 Decision?,84,286,29.37062937062937
+All cases,R2,205,286,71.67832167832168
+All cases,R2 Decision?,225,286,78.67132867132867
+All cases,R3,286,286,100.0
+All cases,R3 Decision?,286,286,100.0
+All cases,Reviewer Comments,207,286,72.37762237762237
+All cases,Validation Message,275,286,96.15384615384616
+Approved,Core content and value labels,0,51,0.0
+Approved,R1,0,51,0.0
+Approved,R1 Decision?,0,51,0.0
+Approved,R2,0,51,0.0
+Approved,R2 Decision?,0,51,0.0
+Approved,R3,51,51,100.0
+Approved,R3 Decision?,51,51,100.0
+Approved,Reviewer Comments,35,51,68.62745098039215
+Approved,Validation Message,51,51,100.0
+Deprecated,Core content and value labels,0,119,0.0
+Deprecated,R1,0,119,0.0
+Deprecated,R1 Decision?,0,119,0.0
+Deprecated,R2,112,119,94.11764705882354
+Deprecated,R2 Decision?,112,119,94.11764705882354
+Deprecated,R3,119,119,100.0
+Deprecated,R3 Decision?,119,119,100.0
+Deprecated,Reviewer Comments,72,119,60.50420168067227
+Deprecated,Validation Message,119,119,100.0
+Needs review,Core content and value labels,0,116,0.0
+Needs review,R1,70,116,60.3448275862069
+Needs review,R1 Decision?,84,116,72.41379310344827
+Needs review,R2,93,116,80.17241379310344
+Needs review,R2 Decision?,113,116,97.41379310344827
+Needs review,R3,116,116,100.0
+Needs review,R3 Decision?,116,116,100.0
+Needs review,Reviewer Comments,100,116,86.20689655172414
+Needs review,Validation Message,105,116,90.51724137931035

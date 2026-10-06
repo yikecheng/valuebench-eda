@@ -1,0 +1,21 @@
+Theme,Status,Commented cases,Comments in status,Percent of commented cases in status
+Capacity or autonomy ambiguity,Deprecated,7,47,14.893617021276595
+Capacity or autonomy ambiguity,Approved,6,16,37.5
+Capacity or autonomy ambiguity,Needs review,3,16,18.75
+Missing context or stakeholder position,Deprecated,5,47,10.638297872340425
+Missing context or stakeholder position,Needs review,5,16,31.25
+Missing context or stakeholder position,Approved,2,16,12.5
+No genuine tradeoff or obvious answer,Deprecated,16,47,34.04255319148936
+No genuine tradeoff or obvious answer,Approved,2,16,12.5
+Outside ethical decision scope,Deprecated,18,47,38.297872340425535
+Outside ethical decision scope,Approved,1,16,6.25
+Positive or retained with caveat,Approved,4,16,25.0
+Positive or retained with caveat,Needs review,3,16,18.75
+"Realism, complexity, or wording",Deprecated,6,47,12.76595744680851
+"Realism, complexity, or wording",Approved,1,16,6.25
+Revision or label correction documented,Approved,7,16,43.75
+Revision or label correction documented,Needs review,5,16,31.25
+Revision or label correction documented,Deprecated,2,47,4.25531914893617
+Value attribution uncertainty,Needs review,10,16,62.5
+Value attribution uncertainty,Deprecated,6,47,12.76595744680851
+Value attribution uncertainty,Approved,4,16,25.0

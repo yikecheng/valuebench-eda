@@ -1,0 +1,18 @@
+Status,Measure,Category,Cases,Status n,Percent
+Approved,Engaged principles,1,0,51,0.0
+Approved,Engaged principles,2,11,51,21.568627450980394
+Approved,Engaged principles,3,22,51,43.13725490196079
+Approved,Engaged principles,4,18,51,35.294117647058826
+Approved,Tradeoff class,Tradeoff,51,51,100.0
+Needs review,Engaged principles,1,4,116,3.4482758620689653
+Needs review,Engaged principles,2,13,116,11.206896551724139
+Needs review,Engaged principles,3,54,116,46.55172413793103
+Needs review,Engaged principles,4,45,116,38.793103448275865
+Needs review,Tradeoff class,Tradeoff,109,116,93.96551724137932
+Needs review,Tradeoff class,Choice 2 dominates,4,116,3.4482758620689653
+Needs review,Tradeoff class,Choice 1 dominates,3,116,2.586206896551724
+Deprecated,Engaged principles,1,0,119,0.0
+Deprecated,Engaged principles,2,7,119,5.882352941176471
+Deprecated,Engaged principles,3,46,119,38.65546218487395
+Deprecated,Engaged principles,4,66,119,55.46218487394958
+Deprecated,Tradeoff class,Tradeoff,119,119,100.0

@@ -1,0 +1,4 @@
+Tab,Role,Nonblank rows,Columns,Unique Case IDs,Important note
+Cases,"Current working, review, and validation table",286,23,286,Canonical current version
+Original Cases,Earlier version used for revision audit,286,13,286,53 cases changed in Cases
+Downloaded for mech interp,Derived convenience extract in repeated blocks,20,12,10,10 unique cases; do not count repeated blocks as independent
